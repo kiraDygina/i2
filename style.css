@@ -1,0 +1,127 @@
+h1{
+color: #1A2902;
+font-size: 40px;
+text-align: center;
+background-color: #00457E;
+border-radius: 10px;
+}
+body{
+background-color: green;
+}
+h2{
+font-size: 35px;
+color: #344C11;
+text-align: center;
+background-color: #00457E;
+border-radius: 10px;
+}
+h3{
+font-size:35px;
+color: #778D45;
+text-align: center;
+background-color: #00457E;
+border-radius: 10px;
+}
+h4{
+color: #AEC09A;
+font-size: 35px;
+text-align: center;
+background-color: #00457E;
+border-radius: 10px;
+}
+h5{
+color: #AEC670;
+font-size: 35px;
+text-align: center;
+background-color: #00457E;
+border-radius: 10px;
+}
+h6{
+color: #00457E;
+font-size: 35px;
+text-align: center;
+background-color: #1A2902;
+border-radius: 10px;
+}
+footer{
+background-color: blue;
+padding: 10px;
+border-radius: 10px;
+}
+footer p{
+background-color: yellow;
+color: black;
+font-size: 25px;
+padding: 5px;
+border-radius: 10px;
+}
+nav{
+margin: 10px 0px;
+text-align: center;
+margin: 20px 0px;
+padding: 20px 0px;
+background-color: blue;
+border-radius: 10px;
+}
+nav a{
+text-decoration: none;
+padding-right: 60px; 
+color: yellow;
+background-color: blue;
+font-size: 30px;
+}
+header p{
+color: #1A2902;
+font-size: 25px;
+background-color: #00457E;
+border-radius: 10px;
+text-align: center;
+}
+.logo{
+color: #344C11;
+text-align: center;
+font-size: 25px;
+background-color: #00457E;
+border-radius: 10px;
+}
+.loga{
+color: #778D45;
+text-align: center;
+font-size: 25px;
+background-color: #00457E;
+border-radius: 10px;
+}
+.loge{
+color: #778D45;
+text-align: center;
+font-size: 25px;
+background-color: #00457E;
+border-radius: 10px;
+}
+.logu{
+color: ;
+text-align: center;
+font-size: 25px;
+background-color: #00457E;
+border-radius: 10px;
+}
+.logc{
+color: #00457E;
+text-align: center;
+font-size: 25px;
+background-color: #1A2902;
+border-radius: 10px;
+}
+header a{
+text-decoration: none;
+padding-right: 60px; 
+color: yellow;
+background-color: blue;
+font-size: 30px;
+text-align: center;
+}
+
+main{text-align: center;}
+img{width: 400px;
+height: 400px;}
+
